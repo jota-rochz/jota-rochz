@@ -9,10 +9,10 @@
 
 ## Sobre Mim:
 <div>
-  <p>Prof de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
+  <p>Sou estudante na área de TI!</p>
 </div>
 
-Estou granduando Análise e Desenvolvimentos de Sistemas na UNIP-SP
+Estou granduando Análise e Desenvolvimentos de Sistemas na UNIP-SP,
 Sou Técnico em Manutenção e Suporte em Informática.<br> 
 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
 
